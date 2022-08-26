@@ -4,7 +4,7 @@ This folder will include anything associated with PHYS1200
 ## General Information
 Supervisor: Sarah Martell
 
-## Potential Projects
+## Projects Intro
 
 - Deep Mixing
   - Part of the CNO Cycle 
