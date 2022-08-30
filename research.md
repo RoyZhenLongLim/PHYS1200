@@ -1,5 +1,8 @@
 # Research
 
+This markdown file will include all the physics research related to the project without the complicated math (that will
+be placed in math.md)
+
 ## Metallicity
 
 In Astrophysics, elements beside H or He are considered to be metals.
@@ -36,17 +39,39 @@ For the sun:
 
 
 ### Hydrogen Burning
+#### PPC
 
-Hydrogen 
+Dominant reaction for low to medium mass stars (< 1.3 Solar Masses).
+
+```text
+H-1 + H-1 -> H-2 + position + electron neutrino
+H-2 + H-1 -> He-3 + gamma
+He-3 + He-3 -> He-4 + 2 * H-1
+```
+
+#### CNO Cycle
+
+Dominant reaction for main-sequence stars that have mass greater than 1.3 Solar Masses.
+```text
+H-1 + C-12 -> N-13 + gamma
+N-13 -> C-13 + positron + electron neutrino
+H-1 + C-13 -> N-14 + gamma
+H-1 + N-14 -> O-15 + gamma
+O-15 -> N-15 + positron + electron neutrino
+```
+
 
 ### Helium Burning
 
-Helium burns via a process known as the Triple-Alpha Process
+When hydrogen runs out, the core collapses and begins Helium fusion with a Helium flash.
+Helium burns via a process known as the Triple-Alpha Process:
 ```
-3 He-4 -> C-12 + Gamma Ray
+He-4 + He-4 -> Be-8
+He-4 + Be-8 -> C-12 + gamma
+3 He-4 -> C-12 + gamma 
 ```
 
-The stars that we are interested about do not have sufficient mass to undergo
+The stars that we are interested about do not have sufficient mass (at least 8 solar masses) undergo
 Carbon burning (fusing Carbon into heavier elements).
 
 ## Importance of Carbon and Lithium within Red Giants
@@ -57,22 +82,19 @@ Carbon burning (fusing Carbon into heavier elements).
 ### Lithium
 Lithium has an atomic number of 3
 
-- The two naturally occuring isotopes Li-6 and Li-7 are both stable isotopes.
+- The two naturally occurring isotopes Li-6 and Li-7 are both stable isotopes.
 	- Other isotopes are unstable, e.g. Li-4, Li-8 and Li-9.
 - Can be easily destroyed via proton capture as Li-8 is less stable that He-4,
   so will decay to 2 He-4 instead of becoming Li-8.
 - Lithium abundance is an indication of the abundance at formation.
 
-// NOTE TO SELF: CHECK THE NUCLEAR EQUATION BELOW
 ```
 H-1 + Li-7 = 2 * He-4
 ```
-The formation of Li can be due to Big Bang Nucleosynthesis and the Cameron-Fowler Mechanism.
+The formation of Li can be due to Big Bang Nucleo-synthesis and the Cameron-Fowler Mechanism.
 ```
-He-3 + He-4 -> Be-7 + gamma
-Be-7 + e^-1 -> Li-7 + electron neutrino
+He-3 + He-4 -> Be-7 + gamma Be-7 + e^-1 -> Li-7 + electron neutrino
 ```
-
 
 
 ## Galah and Apogee
@@ -89,4 +111,4 @@ The dependency of Carbon and Lithium depletion in Red Giants on the metallicity 
 
 ## Sources
 
-- Explaing Lithium Enriched Red Giant Branch Stars
+- Explaining Lithium Enriched Red Giant Branch Stars
