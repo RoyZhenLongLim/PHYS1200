@@ -36,8 +36,6 @@ For the sun:
 
 
 ## Fusion with in Stars
-
-
 ### Hydrogen Burning
 #### PPC
 
@@ -76,8 +74,11 @@ Carbon burning (fusing Carbon into heavier elements).
 
 ## Importance of Carbon and Lithium within Red Giants
 
-
 ### Carbon
+
+Carbon has an atomic number of 6
+
+- The isotopes that are importance are C-13 and C-12
 
 ### Lithium
 Lithium has an atomic number of 3
@@ -86,7 +87,7 @@ Lithium has an atomic number of 3
 	- Other isotopes are unstable, e.g. Li-4, Li-8 and Li-9.
 - Can be easily destroyed via proton capture as Li-8 is less stable that He-4,
   so will decay to 2 He-4 instead of becoming Li-8.
-- Lithium abundance is an indication of the abundance at formation.
+
 
 ```
 H-1 + Li-7 = 2 * He-4
@@ -95,7 +96,6 @@ The formation of Li can be due to Big Bang Nucleo-synthesis and the Cameron-Fowl
 ```
 He-3 + He-4 -> Be-7 + gamma Be-7 + e^-1 -> Li-7 + electron neutrino
 ```
-
 
 ## Galah and Apogee
 
