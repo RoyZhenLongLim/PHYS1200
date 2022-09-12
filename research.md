@@ -3,6 +3,38 @@
 This markdown file will include all the physics research related to the project without the complicated math (that will
 be placed in math.md)
 
+## Projects Intro
+
+- Deep Mixing
+    - Part of the CNO Cycle
+    - Hydrogen Burning Shell
+        - Dependent on the metallicity of the star
+        - Everything else other than H and He is considered a metal
+        - Don't know the mass dependency
+            - Stars above 2 Solar Masses should not
+        - .7  - 2.5 solar masses are in the dataset
+    - Carbon Abundance
+    - Have a look at Apogee and look
+    - Lithium
+        - Very easy to make due to low atomic number
+        - Easy to destroy
+            - Lithium-7 turns to helium when it absorbs a proton
+        - Should fall off
+        - Decline might be different from Carbon
+
+## Extension of the project
+
+Few models that we can look at that model the change.
+
+## Astrophysics
+
+- Read some article sent by Sarah Martell
+- Apogee and Galah
+
+## Talk
+- Write a report
+- 10 pages on the project
+
 ## Metallicity
 
 In Astrophysics, elements beside H or He are considered to be metals.

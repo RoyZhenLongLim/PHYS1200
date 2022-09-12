@@ -6,31 +6,11 @@ Supervisor: Sarah Martell
 
 ## Projects Intro
 
-- Deep Mixing
-  - Part of the CNO Cycle 
-  - Hydrogen Burning Shell 
-    - Dependent on the metallicity of the star
-    - Everything else other than H and He is considered a metal
-    - Don't know the mass dependency
-      - Stars above 2 Solar Masses should not 
-    - .7  - 2.5 solar masses are in the dataset
-  - Carbon Abundance
-  - Have a look at Apogee and look
-  - Lithium
-    - Very easy to make
-    - Easy to do
-      - Lithium turns to helium
-    - Should fall off
-    - Decline might be different from Carbon
+The project aims to further research into a topic done by a previous Honours student.  
 
-- Extension of the project
-  - Few models that we can look at
+- Project Name: Investigating the dependence of deep mixing in red giants on mass and metallicity
 
-## Astrophysics
+When this project was initially done, the lack of data meant the model created was unable to match the observed mixing rate.
 
-- Read some article sent by Sarah Martell
-- Apogee and Galah
-
-## Talk
-- Write a report
-- 10 pages on the project
+## Milestones
+Read the paper [ ]
