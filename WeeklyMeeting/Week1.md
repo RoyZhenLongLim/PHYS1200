@@ -29,6 +29,3 @@ Steps
         - Function of metallicity and mass -> Deep Mixing
           + First Dredge up - Can be used to predict mass
         - Uses the first 4 parameters to see how mass prediction gets affected
-        
-
-Sending out the induction sheet
