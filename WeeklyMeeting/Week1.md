@@ -2,9 +2,33 @@
 
 ## Questions to ask
 
-- GALAH was suggested to not have accurate carbon abundance measurements
-  - How is this measured?
-  - Has this been improved, if so how?
+Train a new model for the GALAH Stars
 
-- Where would I get the Apogee Data?
-  - Specifically, stars with mass calculated using astroseismology
+- The K2 stars that overlapped with GALAH (ask Sarah for)
+  + Overlaps with both data sets
+  + Less accurate than the Kepler data
+- Apogee (allStar)
+  - Need APOKASC (check Slack)
+    + APOGEE
+
+Steps 
+
+  - Train new model for the mass
+    + APOKSAC train model for APOGEE
+      * Clean it to get similar masses stars
+      * Difficult because ML be easily swayed
+      * APOKASC don't overlap
+    + K2 train model for APOGEE and GALAH
+      * K2 + APOGEE
+      * APOKASC + APOGEE
+      * K2 + GALAH
+      * Compare the distribution of mass
+    + Same distribution of masses for Apogee and GALAH (expected results)
+      * Use same parameters as Chris
+        - Oxygen Abundance is not as apparent in GALAH (might need to tweak the parameters)
+        - Function of metallicity and mass -> Deep Mixing
+          + First Dredge up - Can be used to predict mass
+        - Uses the first 4 parameters to see how mass prediction gets affected
+        
+
+Sending out the induction sheet
