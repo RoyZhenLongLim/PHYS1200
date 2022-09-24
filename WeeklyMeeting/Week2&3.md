@@ -7,12 +7,11 @@
 
 ## Questions to ask
 - Not sure how to tackle the K2 data set
-    - Attempted to use 'pd.read_fwf'
-        - Is there a recommended way that I should be sifting through the data?
-    - Not sure what some symbol mean
-        - Not sure how to interpret
+  - I think I need to match K2 data set with the 
+    
 - Not sure how to tackle the APOKSAC data
     - Do not include the chemical abundance that would be required in order to
+- What are the overlaps between data?
 
 ## TODO: Reminder
 - `data_processing.ipynb`
