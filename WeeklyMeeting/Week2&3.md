@@ -1,4 +1,4 @@
-# Week 2
+# Week 2 & 3
 
 ## Progress Made
 - Data from APOGEE and GALAH have been cleaned
