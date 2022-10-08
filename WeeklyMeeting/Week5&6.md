@@ -15,8 +15,9 @@
 - Ask more about determine Red Giants
   - Unsure how to use the graph to determine Red Giants
 - Lithium
-  - Unsure about
-- Unsure about Deep Mixing determining 
+  - Unsure about the expected Lithium changes
+    - Lithium Abundance is observed to decrease
+- Unsure about Deep Mixing
   - 
 
 ## Goals for next meeting
