@@ -3,7 +3,7 @@
 ## Progress Made
 
 - Finishing creating data for APOKSAC mass prediction by merging APOKSAC and APOGEE data
-  - Created a RFR model for APOKSAC mass predictio
+  - Created a RFR model for APOKSAC mass prediction
 
 ## Questions
 
