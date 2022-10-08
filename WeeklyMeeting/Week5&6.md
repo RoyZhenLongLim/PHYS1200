@@ -17,7 +17,5 @@
 - Lithium
   - Unsure about the expected Lithium changes
     - Lithium Abundance is observed to decrease
-- Unsure about Deep Mixing
-  - 
 
 ## Goals for next meeting
