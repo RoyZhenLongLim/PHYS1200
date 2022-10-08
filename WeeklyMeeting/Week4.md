@@ -10,4 +10,3 @@
 - Confirm
   - Map APOKSAC to APOGEE
   - K2 to GALAH
-- 
