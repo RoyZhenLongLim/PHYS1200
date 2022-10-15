@@ -1,9 +1,9 @@
-# Week 5
+# Week 5 & 6
 
 ## Progress Made
 
 - Finishing creating data for APOKSAC mass prediction by merging APOKSAC and APOGEE data
-  - Created a RFR model for APOKSAC mass prediction
+  - Created RFR and Polynomial Regression model for APOKSAC mass prediction
 
 ## Questions
 
