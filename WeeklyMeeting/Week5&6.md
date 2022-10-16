@@ -16,6 +16,8 @@
     - Astroquery doesn't seem to have
 - Lithium
   - Unsure about the expected Lithium changes
-    - Lithium Abundance is observed to decrease
+    - Lithium Abundance is observed to decrease'
+- How different is my dataset from Chris?
+  - It distribution looks very different from the one in his thesis.
 
 ## Goals for next meeting
