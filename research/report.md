@@ -23,3 +23,5 @@ Integration:
 - Acknowledge use of GAIA data
 - Explain how `log g` vs `teff` graph can be used to determine the red giants
 - Explain what Deep Mixing is what first dredge up means 
+- The data suggests that the C/N ratio to recover
+  - More research needs to be done to investigate whether C/N ratio recovers after Deep Mixing
