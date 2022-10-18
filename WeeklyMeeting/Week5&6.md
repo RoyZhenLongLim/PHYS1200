@@ -8,16 +8,36 @@
 
 ## Questions
 
-- Not sure how to handle K2 data
-  - EPIC ID is not
-    - Source_id
-    - Kepler Id
-  - Not sure how to link EPIC id to a relevant column such that we can merge it with the GALAH dataset
-    - Astroquery doesn't seem to have
 - Lithium
   - Unsure about the expected Lithium changes
-    - Lithium Abundance is observed to decrease'
-- How different is my dataset from Chris?
-  - It distribution looks very different from the one in his thesis.
+    - Lithium Abundance is observed to decrease
+    - Do I just need to track Li_Fe?
+    
+- What is the best way to look at Deep Mixing?
+  + Chris created bins and looked at the max and min
+  + Not sure if this is the best way to do it?
 
 ## Goals for next meeting
+
+- Redo analysis with `log g < 3`
+  + The current one is `log g < 3.5`, which is far more generous
+- Sort out GALAH and K2 data
+  + Currently there are only two matches
+    * This might be to do with the data only having 999999 stars (there was an option for unlimited numbers)
+    
+- Compare mass distribution between GALAH and APOGEE
+  + Investigate GALAH 
+    * C/N vs log g 
+    * Li/Fe vs log g
+    
+- Research a way to investigate deep mixing
+  + Creating bins and computing C/N vs log g
+  + Is there a way to compute luminosity and use that as a measure of whether something is a red giant vs log g
+  + Use numpy and create a polynomial that describes the relationship between the data points that are given?
+
+- Investigate weird shapes in the data
+  + What is expected is just a drop in C/N
+  + In some groups, we can see that
+  + However, there is a noticeable drop in C/N that doesn't align with the rest of the data points
+  
+- Start writing the report so that I can get feedback on it early
