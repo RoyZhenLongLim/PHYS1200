@@ -1,6 +1,10 @@
 # Week 7 
 
 ## Progress
+- Included more variables in saved data
+  - This took forever due to a minor bug that I found :/
+- Determine that outliers in Carbon/Nitrogen to Surface Gravity is due to a globular cluster (primarily)
+
 
 ## Questions
 
@@ -16,3 +20,5 @@
   - `targ_pmra` vs `gaiaedr3_pmra`
     - What's the difference?
     - Going with `gaiaedr3_pmra` since its is more precise
+- See Deep Mixing APOGEE
+  - Not sure why there is a split between main group of stars and stars with higher temperature.
