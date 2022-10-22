@@ -60,7 +60,6 @@
     * `ra`, `dec` + `rv`
     * PMRA + PMDec (proper motion)
     * Low C/N ones should have similar parameters
-  + 
 
 - Lin 2009
   + Lithium abundance vs surface gravity
