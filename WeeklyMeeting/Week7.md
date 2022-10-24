@@ -7,7 +7,6 @@
 - Deep Mixing Analysis
   - Not sold on my methodology
 
-
 ## Questions
 
 - For GALAH, what does `red_alpha_fe` mean?
@@ -24,3 +23,5 @@
     - Going with `gaiaedr3_pmra` since its is more precise
 - See Deep Mixing APOGEE
   - Not sure why there is a split between main group of stars and stars with higher temperature.
+- Ask about how to approach writing the research report.
+  - How does the bibliograph work?
