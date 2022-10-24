@@ -4,6 +4,8 @@
 - Included more variables in saved data
   - This took forever due to a minor bug that I found :/
 - Determine that outliers in Carbon/Nitrogen to Surface Gravity is due to a globular cluster (primarily)
+- Deep Mixing Analysis
+  - Not sold on my methodology
 
 
 ## Questions
