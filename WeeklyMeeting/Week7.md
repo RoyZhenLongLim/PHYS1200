@@ -1,4 +1,4 @@
-# Week 7 
+# Week 7
 
 ## Progress
 - Included more variables in saved data
@@ -25,3 +25,18 @@
   - Not sure why there is a split between main group of stars and stars with higher temperature.
 - Ask about how to approach writing the research report.
   - How does the bibliograph work?
+  
+## From Here
+  - Deep mixing
+    + Average before bump
+    + Average level right after
+
+  - Replace `rv_chi2` with `rv`
+
+- Overlap ra and dec graph 
+- AGB
+  + Wikipedia
+  + An introduction to Astrophysics
+  + Graph on a HR diagram to determine whether they are AGB stars
+    * Looks like two lines intersecting at the red giants
+    
