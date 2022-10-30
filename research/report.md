@@ -21,6 +21,7 @@ Integration:
 
 ## MISC
 - Acknowledge use of GAIA data
+  - https://www.galah-survey.org/science/results/ (include this in discussion)
 - Explain how `log g` vs `teff` graph can be used to determine the red giants
 - Explain what Deep Mixing is what first dredge up means 
 - The data suggests that the C/N ratio to recover
