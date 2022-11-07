@@ -1,6 +1,6 @@
 # Week 9
 
-# Progress
+## Progress
 - Extracted rotational velocity
 - Redid plot with rotational velocity
 - Redid plot with overlapping positions
