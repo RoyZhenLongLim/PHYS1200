@@ -20,5 +20,5 @@
 
 
 
-RGB bump doesnt occur in high mass stars
-Expect in fig 13, expect low CN starsa to be at the top rather than evenly spread
+RGB bump doesn't occur in high mass stars
+Expect in fig 13, expect low CN stars to be at the top rather than evenly spread
