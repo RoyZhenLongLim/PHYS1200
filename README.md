@@ -16,7 +16,3 @@ When this project was initially done, the lack of data meant the model created w
   furthered.
 - This project will provide astrophysicists and astronomers to understand the chemical evolution of stars and galaxies
   better.
-
-## Milestones
-- [ ] Read the paper
-- [ ] View the Galah Dataset and Best Practises
